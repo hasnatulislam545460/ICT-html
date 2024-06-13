@@ -1,0 +1,8 @@
+p{
+    border: 5px red solid;
+    margin: 50px;
+    outline-width: 10px;
+    outline-color: aqua;
+    outline-style: double;
+    outline-offset: 10px;
+}
